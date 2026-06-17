@@ -1,1 +1,5 @@
-# poojasree
+- 👋 Hi, I’m Poojasree Lanka
+- 👀 I’m interested in full-stack web development
+- 🌱 I’m currently learning nodejs
+- 💞️ I’m looking to collaborate on open source projects
+- 😄 Pronouns: She
